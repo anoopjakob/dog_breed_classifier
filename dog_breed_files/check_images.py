@@ -4,7 +4,6 @@
 from time import time, sleep
 
 from print_functions_for_lab_checks import *
-
 from get_input_args import get_input_args
 from get_pet_labels import get_pet_labels
 from classify_images import classify_images
